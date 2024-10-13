@@ -1,10 +1,7 @@
-<h1 align="center" style="font-size: 2.5em; color: #2c3e50;">
+<h1 align="center" style="font-size: 1.5em; color: #2c3e50;">
    <strong>The moss growth optimization (MGO): concepts and performance</strong> 
 </h1>
-<h2 align="center" style="font-size: 1.5em; color: #34495e;">
-  📰 <em>Boli Zheng, Yi Chen, Chaofan Wang, Ali Asghar Heidari, Lei Liu, Huiling Chen</em> 📰
-</h2>
-<h2 align="center" style="font-size: 1.5em; color: #34495e;">
+<h2 align="center" style="font-size: 1em; color: #34495e;">
   📰 <em>Journal of Computational Design and Engineering, Volume 11, Issue 5, October 2024, Pages 184–221</em> 📰
 </h2>
 
