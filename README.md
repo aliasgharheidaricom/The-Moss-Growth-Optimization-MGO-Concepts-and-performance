@@ -12,9 +12,11 @@
 <p align="center">
   <img src="MGO logo.jpeg" alt="MGO optimization algorithm" width="450">
 </p>
+<h1 align="center" style="font-family: 'Comic Sans MS', 'Comic Sans', cursive;">
+ The Moss Growth Optimization (MGO): Concepts and performance
+</h1>
 
-# Moss Growth Optimization (MGO)
-
+ 
 The Moss Growth Optimization (MGO) algorithm is a novel nature-inspired optimization algorithm that replicates moss growth dynamics to solve complex optimization problems. It was introduced in the **Journal of Computational Design and Engineering** as an innovative alternative to traditional optimization methods, showing promise in real-world applications like logistics, energy management, and machine learning model tuning.
 ## Abstract
 
