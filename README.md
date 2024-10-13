@@ -92,17 +92,17 @@ If you use this algorithm or its code, please cite the original publication:
 
 | Optimization Method | Year | Advantages                                           | Applications                                |
 |---------------------|------|-----------------------------------------------------|---------------------------------------------|
-| 🌟 [**PLO 2024**](http://www.aliasgharheidari.com/PLO.html)   | 2024 | High efficiency in solving complex problems         | Engineering design, data analysis           |
-| 🚀 [**FATA 2024**](http://www.aliasgharheidari.com/FATA.html) | 2024 | Robust performance and scalability                   | Resource management, optimization tasks     |
-| 🌐 [**ECO 2024**](http://www.aliasgharheidari.com/ECO.html)   | 2024 | Effective in multi-objective optimization            | Environmental modeling, multi-criteria decision-making |
-| 🔍 [**AO 2024**](http://www.aliasgharheidari.com/AO.html)     | 2024 | Innovative approaches to optimization                | Adaptive systems, real-time optimization    |
-| ✨ [**PO 2024**](http://www.aliasgharheidari.com/PO.html)     | 2024 | Fast convergence and simple implementation           | Robotics, machine learning                   |
-| 🔬 [**RIME 2023**](http://www.aliasgharheidari.com/RIME.html) | 2023 | Flexibility in handling various optimization tasks   | Control systems, signal processing          |
-| 📊 [**INFO 2022**](http://www.aliasgharheidari.com/INFO.html) | 2022 | Data-driven insights for optimization                | Business analytics, predictive modeling     |
-| 🛠️ [**RUN 2021**](http://www.aliasgharheidari.com/RUN.html)     | 2021 | Adaptable to different types of optimization problems | Logistics, supply chain management          |
-| 🔧 [**HGS 2021**](http://www.aliasgharheidari.com/HGS.html)     | 2021 | Effective for large-scale problems                   | Telecommunications, network design          |
-| 🧩 [**SMA 2020**](http://www.aliasgharheidari.com/SMA.html)     | 2020 | Suitable for dynamic environments                    | Financial modeling, time-series forecasting  |
-| 🌠 [**HHO 2019**](http://www.aliasgharheidari.com/HHO.html)     | 2019 | Good balance between exploration and exploitation     | Manufacturing optimization, systems engineering |
+| 🌟 [**PLO**](http://www.aliasgharheidari.com/PLO.html)   | 2024 | High efficiency in solving complex problems         | Engineering design, data analysis           |
+| 🚀 [**FATA**](http://www.aliasgharheidari.com/FATA.html) | 2024 | Robust performance and scalability                   | Resource management, optimization tasks     |
+| 🌐 [**ECO**](http://www.aliasgharheidari.com/ECO.html)   | 2024 | Effective in multi-objective optimization            | Environmental modeling, multi-criteria decision-making |
+| 🔍 [**AO**](http://www.aliasgharheidari.com/AO.html)     | 2024 | Innovative approaches to optimization                | Adaptive systems, real-time optimization    |
+| ✨ [**PO**](http://www.aliasgharheidari.com/PO.html)     | 2024 | Fast convergence and simple implementation           | Robotics, machine learning                   |
+| 🔬 [**RIME**](http://www.aliasgharheidari.com/RIME.html) | 2023 | Flexibility in handling various optimization tasks   | Control systems, signal processing          |
+| 📊 [**INFO**](http://www.aliasgharheidari.com/INFO.html) | 2022 | Data-driven insights for optimization                | Business analytics, predictive modeling     |
+| 🛠️ [**RUN**](http://www.aliasgharheidari.com/RUN.html)     | 2021 | Adaptable to different types of optimization problems | Logistics, supply chain management          |
+| 🔧 [**HGS**](http://www.aliasgharheidari.com/HGS.html)     | 2021 | Effective for large-scale problems                   | Telecommunications, network design          |
+| 🧩 [**SMA**](http://www.aliasgharheidari.com/SMA.html)     | 2020 | Suitable for dynamic environments                    | Financial modeling, time-series forecasting  |
+| 🌠 [**HHO**](http://www.aliasgharheidari.com/HHO.html)     | 2019 | Good balance between exploration and exploitation     | Manufacturing optimization, systems engineering |
 
 Explore these methods to see how MGO compares and stands out in the field of optimization!
 
