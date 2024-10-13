@@ -46,17 +46,32 @@ These mechanisms allow MGO to outperform traditional methods such as Genetic Alg
 - **Dynamic Adaptation**: Automatically adjusts the balance between exploration and exploitation based on the search space and problem complexity.
 - **Highly Versatile**: MGO has demonstrated effectiveness in optimizing continuous and discrete problems, making it suitable for diverse fields such as industrial optimization, network design, resource allocation, and beyond.
 
-## Strengths and Weaknesses
+### Download Resources
 
-### Strengths
+| Resource                                         | Download Link           |
+|--------------------------------------------------|-------------------------|
+| MGO Concepts and Performance (PDF)               | <a href="https://aliasgharheidari.com/The Moss Growth Optimization _MGO_ Concepts and performance-Journal of Computational Design and Engineering JCDE-2024.pdf" class="download-link" target="_blank" download>Download the Moss Growth Optimization (MGO) Concepts and Performance PDF</a>    |
+| MGO MATLAB Code                                  | <a href="https://aliasgharheidari.com/Moss Growth Optimization MGO.zip" class="download-link" download>Download MATLAB Code for Moss Growth Optimization (MGO)</a> |
+| MGO Flowchart (Visio)                            | <a href="https://aliasgharheidari.com/The flowchart of MGO.vsdx" class="download-link" download>Download Moss Growth Optimization (MGO) Flowchart (Visio)</a>   |
+| MGO Concepts and Performance (Word)              | <a href="https://aliasgharheidari.com/The Moss Growth Optimization _MGO_ Concepts and performance-Journal of Computational Design and Engineering-2024.docx" class="download-link" download>Download Moss Growth Optimization (MGO) Concepts and Performance (Word)</a> |
+
+### Performance Comparison
+
+| Algorithm                        | Speed    | Global Search Ability | Local Search Refinement | Scalability |
+|----------------------------------|----------|-----------------------|-------------------------|-------------|
+| Moss Growth Optimization          | Moderate | High                  | Excellent               | Moderate    |
+| Genetic Algorithm                 | Fast     | Good                  | Moderate                | High        |
+| Particle Swarm Optimization       | Fast     | Moderate              | Moderate                | High        |
+| Simulated Annealing               | Moderate | High                  | Low                     | Moderate    |
+
+
+## Strengths 
+
 - **Balanced Exploration and Exploitation**: MGO excels at finding a middle ground between local and global searches, making it ideal for solving multimodal optimization problems.
 - **Escape from Local Optima**: Thanks to the cryptobiosis mechanism, MGO avoids premature convergence better than many classical algorithms.
 - **Simplicity**: While biologically inspired, MGO has a straightforward implementation and does not require extensive parameter tuning.
 
-### Weaknesses
-- **Performance Variability**: While MGO performs exceptionally on certain benchmarks, its performance may vary with different problem types, particularly for problems that demand fast convergence.
-- **Computationally Intensive**: For large-scale optimization problems, MGO can be slower compared to algorithms like Differential Evolution due to its complex growth mechanism.
-
+ 
 ## Installation
 
 ### Prerequisites
