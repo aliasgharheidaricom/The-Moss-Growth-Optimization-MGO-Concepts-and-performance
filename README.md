@@ -1,3 +1,14 @@
+![GitHub](https://img.shields.io/github/license/aliasgharheidaricom/The-Moss-Growth-Optimization-MGO-Concepts-and-performance)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/aliasgharheidaricom/The-Moss-Growth-Optimization-MGO-Concepts-and-performance)
+![GitHub repo size](https://img.shields.io/github/repo-size/aliasgharheidaricom/The-Moss-Growth-Optimization-MGO-Concepts-and-performance)
+![GitHub language count](https://img.shields.io/github/languages/count/aliasgharheidaricom/The-Moss-Growth-Optimization-MGO-Concepts-and-performance)
+![GitHub last commit](https://img.shields.io/github/last-commit/aliasgharheidaricom/The-Moss-Growth-Optimization-MGO-Concepts-and-performance)
+![GitHub issues](https://img.shields.io/github/issues/aliasgharheidaricom/The-Moss-Growth-Optimization-MGO-Concepts-and-performance)
+![GitHub forks](https://img.shields.io/github/forks/aliasgharheidaricom/The-Moss-Growth-Optimization-MGO-Concepts-and-performance)
+![GitHub stars](https://img.shields.io/github/stars/aliasgharheidaricom/The-Moss-Growth-Optimization-MGO-Concepts-and-performance)
+![GitHub watchers](https://img.shields.io/github/watchers/aliasgharheidaricom/The-Moss-Growth-Optimization-MGO-Concepts-and-performance)
+![GitHub contributors](https://img.shields.io/github/contributors/aliasgharheidaricom/The-Moss-Growth-Optimization-MGO-Concepts-and-performance)
+
 # Moss Growth Optimization (MGO) Algorithm
 
 The Moss Growth Optimization (MGO) algorithm is a novel nature-inspired optimization algorithm that replicates moss growth dynamics to solve complex optimization problems. It was introduced in the **Journal of Computational Design and Engineering** as an innovative alternative to traditional optimization methods, showing promise in real-world applications like logistics, energy management, and machine learning model tuning.
