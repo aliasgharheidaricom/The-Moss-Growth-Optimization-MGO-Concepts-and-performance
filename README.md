@@ -9,12 +9,16 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/aliasgharheidaricom/The-Moss-Growth-Optimization-MGO-Concepts-and-performance)
 ![GitHub contributors](https://img.shields.io/github/contributors/aliasgharheidaricom/The-Moss-Growth-Optimization-MGO-Concepts-and-performance)
 
+<p align="center">
+  <img src="MGO logo.jpeg" alt="MGO optimization algorithm" width="450">
+</p>
+
 # Moss Growth Optimization (MGO)
 
 The Moss Growth Optimization (MGO) algorithm is a novel nature-inspired optimization algorithm that replicates moss growth dynamics to solve complex optimization problems. It was introduced in the **Journal of Computational Design and Engineering** as an innovative alternative to traditional optimization methods, showing promise in real-world applications like logistics, energy management, and machine learning model tuning.
 ## Abstract
 
-The Moss Growth Optimization (MGO) algorithm is inspired by moss growth processes observed in nature. MGO uses spore dispersal and dual propagation searches to optimize solutions. The cryptobiosis mechanism prevents the algorithm from getting stuck in local optima, improving its ability to solve complex optimization problems.
+Metaheuristic algorithms are increasingly utilized to solve complex optimization problems because they can efficiently explore large solution spaces. The moss growth optimization (MGO), introduced in this paper, is an algorithm inspired by the moss growth in the natural environment. The MGO algorithm initially determines the evolutionary direction of the population through a mechanism called the determination of wind direction, which employs a method of partitioning the population. Meanwhile, drawing inspiration from the asexual reproduction, sexual reproduction, and vegetative reproduction of moss, two novel search strategies, namely spore dispersal search and dual propagation search, are proposed for exploration and exploitation, respectively. Finally, the cryptobiosis mechanism alters the traditional metaheuristic algorithm’s approach of directly modifying individuals’ solutions, preventing the algorithm from getting trapped in local optima. In experiments, a thorough investigation is undertaken on the characteristics, parameters, and time cost of the MGO algorithm to enhance the understanding of MGO. Subsequently, MGO is compared with 10 original and advanced CEC 2017 and CEC 2022 algorithms to verify its performance advantages. Lastly, this paper applies MGO to four real-world engineering problems to validate its effectiveness and superiority in practical scenarios. The results demonstrate that MGO is a promising algorithm for tackling real challenges. The source codes of the MGO are available at https://aliasgharheidari.com/MGO.html and other websites.
 
 ## Why Moss Growth Optimization?
 
