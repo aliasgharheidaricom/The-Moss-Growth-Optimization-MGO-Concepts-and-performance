@@ -72,3 +72,21 @@ These mechanisms allow MGO to outperform traditional methods such as Genetic Alg
 If you use this algorithm or its code, please cite the original publication:
 
 - Zheng, B., Chen, Y., Wang, C., Heidari, A. A., Liu, L., & Chen, H. (2024). "The Moss Growth Optimization (MGO): Concepts and Performance." *Journal of Computational Design and Engineering*, Oxford Press.
+
+## 🔍 **Comparison with Other Optimization Methods**
+
+Delve into how the MGO stacks up against other optimization techniques:
+
+- 🌟 [**PLO 2024**](http://www.aliasgharheidari.com/PLO.html) 
+- 🚀 [**FATA 2024**](http://www.aliasgharheidari.com/FATA.html)
+- 🌐 [**ECO 2024**](http://www.aliasgharheidari.com/ECO.html)
+- 🔍 [**AO 2024**](http://www.aliasgharheidari.com/AO.html)
+- ✨ [**PO 2024**](http://www.aliasgharheidari.com/PO.html)
+- 🔬 [**RIME 2023**](http://www.aliasgharheidari.com/RIME.html)
+- 📊 [**INFO 2022**](http://www.aliasgharheidari.com/INFO.html)
+- 🛠️ [**RUN 2021**](http://www.aliasgharheidari.com/RUN.html)
+- 🔧 [**HGS 2021**](http://www.aliasgharheidari.com/HGS.html)
+- 🧩 [**SMA 2020**](http://www.aliasgharheidari.com/SMA.html)
+- 🌠 [**HHO 2019**](http://www.aliasgharheidari.com/HHO.html)
+
+Explore these methods to see how PLO compares and stands out in the field of optimization!
