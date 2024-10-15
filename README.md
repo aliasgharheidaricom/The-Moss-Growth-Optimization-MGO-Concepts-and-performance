@@ -77,8 +77,6 @@ These mechanisms allow MGO to outperform traditional methods such as Genetic Alg
 ### Prerequisites
 
 - **MATLAB** (for running the MGO code)
-- **Python 3.x** (for auxiliary scripts)
-- Required MATLAB toolboxes (Optimization Toolbox, Global Optimization Toolbox)
 
 
 
